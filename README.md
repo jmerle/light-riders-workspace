@@ -29,4 +29,4 @@ The wrapper-commands is used by the game wrapper which communicates with the gam
 *Note: changes made to the wrapper-commands while the application is running aren't used by the application until it's restarted.*
 
 ## Thanks to Riddles.io
-This application would not be possible without the game engine, game wrapper and match viewer. All of these were made by the awesome people over at @riddlesio.
+This application would not be possible without the game engine, game wrapper and match viewer. All of these were made by the awesome people over at @[riddlesio](https://github.com/riddlesio).
