@@ -23,7 +23,7 @@ The wrapper-commands is used by the game wrapper which communicates with the gam
   <dd>The avatars in the match viewer are coming from Gravatar. To get your Gravatar in the match viewer, the md5 hash of the email address associated with your Gravatar account is necessary. If no hash or an invalid hash is given, a default avatar is shown instead.</dd>
 
   <dt>stderrEnabled</dt>
-  <dd>A property which is read by the modified game wrapper. If set to true, this bot's stderr will be written to the game wrapper's stderr, and therefore show up in the *Bot stderr* tab next to the match viewer. Set this value to `true` on the bot you are working on.</dd>
+  <dd>A property which is read by the modified game wrapper. If set to true, this bot's stderr will be written to the game wrapper's stderr, and therefore show up in the <i>Bot stderr</i> tab next to the match viewer. Set this value to `true` on the bot you are working on.</dd>
 </dl>
 
 *Note: changes made to the wrapper-commands while the application is running aren't used by the application until it's restarted.*
