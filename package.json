@@ -1,0 +1,15 @@
+{
+  "name": "light-riders-workspace",
+  "version": "1.0.0",
+  "description": "A development workspace for Riddles.io's Light Riders contest.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Jasper van Merle",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.1"
+  }
+}

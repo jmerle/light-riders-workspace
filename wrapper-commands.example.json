@@ -1,0 +1,25 @@
+{
+  "wrapper": {
+    "timebankMax": 10000,
+    "timePerMove": 500,
+    "maxTimeouts": 0,
+    "resultFile": "./resultfile.json",
+    "debug": false
+  },
+  "match": {
+    "bots": [{
+      "command": "node bots/javascript/main",
+      "name": "Me",
+      "emailHash": "",
+      "stderrEnabled": true
+    }, {
+      "command": "node bots/javascript/main",
+      "name": "Enemy",
+      "emailHash": "",
+      "stderrEnabled": false
+    }],
+    "engine": {
+      "command": "java -jar engine/engine-1.0.1.jar"
+    }
+  }
+}

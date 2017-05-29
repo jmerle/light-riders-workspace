@@ -1,0 +1,2 @@
+# Modifications made to the game wrapper
+The game wrapper was modified so it understands the `stderrEnabled` bot property. If this is set to `true`, the game wrapper will send the bot's stderr to it's own stderr. For this to be possible, the game wrapper was first decompiled and put into a Maven project to make it easier to make changes. Please note that except for a few lines this was entirely written by @riddlesio.
