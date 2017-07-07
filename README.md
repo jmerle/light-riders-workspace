@@ -1,3 +1,5 @@
+# Deprecated. Use [https://github.com/jmerle/ai-bot-workspace](https://github.com/jmerle/ai-bot-workspace) instead.
+
 # Light Riders Workspace
 A testing workspace for Riddles.io's [Light Riders](https://starapple.riddles.io/competitions/light-riders) contest.
 
